@@ -41,7 +41,8 @@
 - 기본 브랜치 및 던전 앱: `main` (원격 시작 SHA `d659f08088f7cf6ad7db7c5f5cb357a4cbdb4d27`).
 - 신규 브랜치: `feature/idea-monster-factory`.
 - 앱 경로: `idea-monster-factory/index.html`.
-- 현재 브랜치 HEAD: GitHub 반영 후 기록한다.
+- 앱 파일·문서가 모두 들어간 기준 HEAD(이번 SHA 반영 갱신 직전): `e10a9507ba811cca589f266742473f335128aa64`.
+- 해당 기준 커밋 Author·Committer: `hibi89` / `hibi89`, GitHub 계정 이메일과 일치함을 GitHub branch API에서 확인.
 
 ## 7. Production URL·프로젝트·실행 명령·환경
 
@@ -68,4 +69,4 @@
 - 갱신: 2026-11-02 (KST).
 - 기준: `main`의 최신 확인 SHA에서 분기해 브랜치 구축 중.
 - 검증 범위: 정적 문법·HTML ID 검사 PASS; 브라우저 동작 미검증.
-- 브랜치 최종 SHA: GitHub 반영 후 기록한다.
+- 브랜치 기준 HEAD: `e10a9507ba811cca589f266742473f335128aa64`; 아래 문서 SHA 갱신은 별도 커밋으로 기록한다.
