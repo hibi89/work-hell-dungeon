@@ -42,8 +42,8 @@
 - 기본 브랜치 및 던전 앱: `main` (원격 시작 SHA `d659f08088f7cf6ad7db7c5f5cb357a4cbdb4d27`).
 - 신규 브랜치: `feature/idea-monster-factory`.
 - 앱 경로: `idea-monster-factory/index.html`.
-- 앱 최신 소스 수정 커밋: GitHub 반영 이후 확인해 기록한다.
-- 문서와 앱이 모두 반영된 직전 기준: `94e38c214d600a74a2eb4b230dd2ef975a9e4795`.
+- 앱 최신 소스 커밋: `00eee0bfd350d699a025bcc854fe81cb70fc6b07`.
+- 이번 HANDOFF 갱신 직전 전체 브랜치 HEAD: `5ebcf8828408c62017034442fd4435692c678a2c`.
 - GitHub branch API에서 Author·Committer `hibi89` 및 등록 계정 이메일 일치 확인.
 
 ## 7. Production URL·프로젝트·실행 명령·환경
@@ -71,5 +71,5 @@
 - 갱신: 2026-11-02 (KST).
 - 기준: `main`의 최신 확인 SHA에서 분기해 브랜치 구축 중.
 - 검증 범위: 정적 문법·HTML ID 검사 PASS; 브라우저 동작 미검증.
-- 마지막 정적 점검은 마지막 코드 수정 후 다시 실행해 결과를 기록한다. 실제 Chromium 앱 검증은 미완료.
-- 현재 HANDOFF 갱신과 마지막 앱 수정의 SHA는 GitHub 반영 후 기록한다.
+- 임베디드 JavaScript 문법과 31개 정적 HTML ID 점검은 마지막 앱 수정 `00eee0bfd350d699a025bcc854fe81cb70fc6b07` 후 PASS.
+- 실제 Chromium 앱 검증은 미완료. 이번 HANDOFF 문서 커밋은 GitHub 브랜치 이력에서 확인한다.
