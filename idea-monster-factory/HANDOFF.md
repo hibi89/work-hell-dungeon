@@ -41,8 +41,9 @@
 - 기본 브랜치 및 던전 앱: `main` (원격 시작 SHA `d659f08088f7cf6ad7db7c5f5cb357a4cbdb4d27`).
 - 신규 브랜치: `feature/idea-monster-factory`.
 - 앱 경로: `idea-monster-factory/index.html`.
-- 앱 파일·문서가 모두 들어간 기준 HEAD(이번 SHA 반영 갱신 직전): `e10a9507ba811cca589f266742473f335128aa64`.
-- 해당 기준 커밋 Author·Committer: `hibi89` / `hibi89`, GitHub 계정 이메일과 일치함을 GitHub branch API에서 확인.
+- 앱 최신 소스 수정 커밋: `f5c748c158f4c813d4f01832208fc2ae0d3cc6ee` (첫 버전 범위 슬라이더 결과를 세 단계로 구분).
+- 문서와 앱이 모두 반영된 직전 기준: `b509541bc3f9fc7fb4a6074c3c9b6e2d520b73ac`.
+- GitHub branch API에서 Author·Committer `hibi89` 및 등록 계정 이메일 일치 확인.
 
 ## 7. Production URL·프로젝트·실행 명령·환경
 
@@ -69,4 +70,5 @@
 - 갱신: 2026-11-02 (KST).
 - 기준: `main`의 최신 확인 SHA에서 분기해 브랜치 구축 중.
 - 검증 범위: 정적 문법·HTML ID 검사 PASS; 브라우저 동작 미검증.
-- 브랜치 기준 HEAD: `e10a9507ba811cca589f266742473f335128aa64`; 아래 문서 SHA 갱신은 별도 커밋으로 기록한다.
+- 마지막 브라우저/정적 점검 대상 소스 SHA: `f5c748c158f4c813d4f01832208fc2ae0d3cc6ee`.
+- 이번 HANDOFF 갱신 전 문서 스냅샷: `b509541bc3f9fc7fb4a6074c3c9b6e2d520b73ac`; 최종 문서 커밋은 GitHub 브랜치 HEAD에서 확인한다.
